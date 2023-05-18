@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <div align="">
 	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS&logoColor=white" />
-	<img src="https://img.shields.io/badge/JS-#F7DF1E?style=flat&logo=JS&logoColor=white" />
+	<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JS&logoColor=white" />
 
 </div>
