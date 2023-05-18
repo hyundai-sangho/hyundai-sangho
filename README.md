@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="">
+<div align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white" />
 <img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/udemy-A435F0?style=flat&logo=udemy&logoColor=white" />
+<img src="https://img.shields.io/badge/freecodecamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white" />
 </div>
