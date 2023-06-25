@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtube&logoColor=white" />
 <img src="https://img.shields.io/badge/udemy-A435F0?style=flat&logo=udemy&logoColor=white" />
 <img src="https://img.shields.io/badge/freecodecamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white" />
-</div>
 
 <pre>
 어린 시절 학교앞 문방구에서 100원 짜리 동전 하나로 하던 짱깸뽀 게임의 추억에 돋아
@@ -39,3 +38,7 @@ HTML은 뭐지, CSS는 또 뭐지, JS는 뭐고 jquery는 또 뭐지
 
 끊임없이 새로나오는 기술에 대한 궁금증을 하나 하나 기록한 코드 저장소
 </pre>
+
+</div>
+
+
