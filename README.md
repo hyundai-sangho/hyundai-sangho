@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/freecodecamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white" />
 <br>
 
-
 <pre>
 어린 시절 학교앞 문방구에서 100원 짜리 동전 하나로 하던 짱깸뽀 게임의 추억에 돋아
 한 번 만들어볼까 하는 마음으로 시작한 개발
