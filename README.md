@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div width="500">
+
 <img src="https://static.news.zumst.com/images/37/2020/05/23/e86f1a1fcff34588938b05f19abfafbf.jpg" width="500"/>
 
 <p>
@@ -27,5 +29,7 @@ HTML은 뭐지, CSS는 또 뭐지, JS는 뭐고 jquery는 또 뭐지
 끊임없이 새로나오는 기술에 대한 궁금증을 하나 하나 기록한 코드 저장소
 </p>
 
+
+</div>
 
 
